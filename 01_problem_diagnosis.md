@@ -53,7 +53,7 @@ In this step, I analyzed the product data to understand why TaskFlow is declinin
 
 ---
 
-## 🔥 Main Problem
+## Main Problem
 
 The core issue is **product + retention problem**
 
@@ -65,7 +65,7 @@ The core issue is **product + retention problem**
 
 ---
 
-## 🧠 Summary
+## Summary
 
 TaskFlow is losing users because:
 - Weak retention
