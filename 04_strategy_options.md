@@ -14,8 +14,6 @@ Pros:
 Cons:
 - still strong competition
 
----
-
 ## Option 2: Pivot to New Niche
 
 Focus:
@@ -27,8 +25,6 @@ Pros:
 Cons:
 - expensive
 - risky
-
----
 
 ## Option 3: Focus on Specific Segment
 
@@ -42,7 +38,6 @@ Pros:
 Cons:
 - smaller market
 
----
 
 ## Summary
 
