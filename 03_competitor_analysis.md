@@ -7,8 +7,6 @@ I compared TaskFlow with key competitors:
 - Any.do
 - Notion
 
----
-
 ## Key Differences
 
 ### 1. Product Features
@@ -19,17 +17,13 @@ Competitors offer:
 - More integrations
 
 TaskFlow:
-👉 Limited functionality
-
----
+→ Limited functionality
 
 ### 2. Product Updates
 - Competitors release features регулярно
 - TaskFlow: no major updates for 8 months
 
-👉 Product feels outdated
-
----
+→ Product feels outdated
 
 ### 3. Positioning
 
@@ -38,9 +32,7 @@ TaskFlow:
 - TickTick → tasks + habits + calendar
 
 TaskFlow:
-👉 unclear positioning
-
----
+→ unclear positioning
 
 ### 4. Ratings
 
@@ -50,8 +42,6 @@ TaskFlow:
   - no offline mode
   - repetitive UI
 
----
-
 ## Conclusion
 
 Competitors win because:
@@ -59,4 +49,4 @@ Competitors win because:
 - faster development
 - clearer positioning
 
-👉 TaskFlow is falling behind
+→ TaskFlow is falling behind
