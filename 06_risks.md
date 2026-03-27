@@ -5,28 +5,22 @@
 ### 1. Execution risk
 Team is small (12 people)
 
-👉 Mitigation:
+→ Mitigation:
 - prioritize features
 - focus on high-impact changes
-
----
 
 ### 2. Competition
 Competitors move fast
 
-👉 Mitigation:
+→ Mitigation:
 - niche focus
 - faster releases
 
----
-
 ### 3. Market saturation
 
-👉 Mitigation:
+→ Mitigation:
 - differentiate product
 - clear positioning
-
----
 
 ## Conclusion
 
