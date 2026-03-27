@@ -1,9 +1,6 @@
 # 🌍 Market & Niche Analysis
 
-## What I did
 I researched the productivity tools market to understand where TaskFlow stands.
-
----
 
 ## Market Overview
 
@@ -13,9 +10,7 @@ The productivity app market is:
 - Driven by user experience and innovation
 
 Key trend:
-👉 Users want **all-in-one tools**, not just to-do lists
-
----
+→ Users want **all-in-one tools**, not just to-do lists
 
 ## Key Trends
 
@@ -24,8 +19,6 @@ Key trend:
 - More focus on collaboration and teamwork
 - Habit tracking + mental health integration
 - Cross-platform (mobile + web + desktop)
-
----
 
 ## Market Niches
 
@@ -50,8 +43,6 @@ Key trend:
 - Growing demand
 - Especially for remote work
 
----
-
 ## 💡 Most Promising Niches
 
 Based on trends:
@@ -60,15 +51,13 @@ Based on trends:
 2. AI-powered assistants  
 3. Collaboration-focused apps  
 
----
-
 ## Conclusion
 
 TaskFlow is currently in:
-👉 **a very crowded niche (task management)**
+→ **a very crowded niche (task management)**
 
 And it:
 - does not stand out
 - does not innovate
 
-👉 This is a strategic risk
+→ This is a strategic risk
