@@ -4,17 +4,13 @@
 
 I recommend:
 
-👉 Improve product + focus on specific segment
-
----
+→ Improve product + focus on specific segment
 
 ## Why
 
 - retention is the main problem
 - product is outdated
 - easier than full pivot
-
----
 
 ## What should change
 
@@ -30,8 +26,6 @@ I recommend:
 - reduce dependency on paid ads
 - grow organic channels
 
----
-
 ## 12-Month Roadmap
 
 ### Q1–Q2
@@ -45,7 +39,6 @@ I recommend:
 ### Q4
 - scale growth channels
 
----
 
 ## Expected Impact
 
@@ -53,10 +46,8 @@ I recommend:
 - improve LTV
 - stabilize growth
 
----
-
 ## Final Thought
 
 The product still has potential
 
-👉 but only if we fix retention and product value
+→ but only if we fix retention and product value
