@@ -1,6 +1,5 @@
 # 📉 Problem Diagnosis
 
-## What I wanted to understand
 In this step, I analyzed the product data to understand why TaskFlow is declining.
 
 ---
