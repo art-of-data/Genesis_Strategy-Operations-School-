@@ -1,47 +1,70 @@
-# 🧭 Strategic Options
+# Strategy Options
 
-## Option 1: Improve Current Product
+## Три стратегічні варіанти
 
-Focus:
-- better UX
-- new features (collaboration, offline mode)
-- improve retention
+### Варіант A — Глибока нішевизація (Рекомендований)
 
-Pros:
-- faster to implement
-- uses existing users
+**Суть:** репозиціонування на студентів та молодих спеціалістів 18-28 років
+з фокусом на habit tracking та особисту продуктивність.
 
-Cons:
-- still strong competition
+**Що змінюємо:**
+- Ціна: $5.99 → $3.99/міс
+- Додаємо: Pomodoro таймер, gamification (streaks, рівні, досягнення), офлайн режим
+- Розширюємо habit tracker
+- Нові канали: TikTok, Reddit, студентські спільноти
 
-## Option 2: Pivot to New Niche
+**Переваги:**
+- Низький CAPEX (~$20-30K)
+- Швидка реалізація (3-4 місяці)
+- Habit tracking вже є — розвиваємо, а не будуємо з нуля
+- TickTick доводить що сегмент монетизується (30M+ юзерів по $3/міс)
 
-Focus:
-- move into AI productivity or all-in-one tools
+**Недоліки:**
+- Зниження ARPPU короткостроково
+- Конкурує з TickTick
 
-Pros:
-- higher growth potential
-
-Cons:
-- expensive
-- risky
-
-## Option 3: Focus on Specific Segment
-
-Focus:
-- freelancers or small teams
-
-Pros:
-- clearer positioning
-- less competition
-
-Cons:
-- smaller market
+**Timeline:** 3-4 місяці до перших результатів
 
 
-## Summary
+### Варіант B — AI-перший продукт
 
-Each option has trade-offs between:
-- risk
-- cost
-- impact
+**Суть:** додати AI планування задач, smart scheduling, voice input.
+Репозиціонування як "розумний планувальник".
+
+**Переваги:**
+- Висока довічна цінність клієнта (LTV)
+- Відповідає тренду ринку
+
+**Недоліки:**
+- Висока вартість розробки ($80-120K+)
+- 6-9 місяців до релізу
+- Ризиковано при runway 14 місяців
+
+**Timeline:** 6-9 місяців
+
+
+### Варіант C — SMB pivot (B2B)
+
+**Суть:** розвиток командної колаборації для малого бізнесу (5-15 осіб),
+B2B pricing $8-12/user/міс.
+
+**Переваги:**
+- Вища LTV у B2B сегменті
+- Менший відтік клієнтів
+
+**Недоліки:**
+- Довгий цикл продажу
+- Потребує повного переосмислення продукту
+- Runway не вистачить
+
+**Timeline:** 9-12 місяців
+
+
+## Порівняння варіантів
+| Параметр | Варіант A | Варіант B | Варіант C |
+|---|---|---|---|
+| Інвестиція | $20-30K | $80-120K+ | $50-70K |
+| Timeline | 3-4 міс | 6-9 міс | 9-12 міс |
+| Ризик | Низький | Високий | Високий |
+| Fit з runway | ✓ | ризиковано | ✗ |
+| Команда 12 осіб | ✓ | складно | складно |
