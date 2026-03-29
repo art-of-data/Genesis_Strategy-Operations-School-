@@ -1,53 +1,92 @@
-# 🚀 Recommended Strategy & Roadmap
+# Recommended Strategy
 
-## My Choice
+## Рекомендація: Варіант A + елементи B на другому етапі
 
-I recommend:
+### Позиціонування
+**"The habit-powered task manager for students and young professionals"**
 
-→ Improve product + focus on specific segment
+### Цільова аудиторія
+Студенти та молоді спеціалісти, 18-28 років, англомовні ринки,
+особиста продуктивність + навчання + здоров'я.
 
-## Why
+### Що конкретно змінюється
 
-- retention is the main problem
-- product is outdated
-- easier than full pivot
+| Напрямок | Зараз | Після |
+|---|---|---|
+| Ціна | $5.99/міс | $3.99/міс або $24.99/рік |
+| Trial | 7 днів | 14 днів |
+| Habit tracker | базовий | повний + gamification |
+| Pomodoro | немає | є |
+| Офлайн | немає | є |
+| Колаборація | до 3 осіб | до 5 осіб |
+| Основні канали | Meta, Google Ads | ASO, TikTok, Referral |
 
-## What should change
+---
 
-### Product
-- add collaboration features
-- improve UX/UI
-- add offline mode
+## 12-місячний Roadmap
 
-### Positioning
-- focus on freelancers / small teams
+### Фаза 1 — Стабілізація (місяці 1-2)
+- Скоротити Meta/Google Ads на 60% → економія ~$35K/міс
+- Запустити referral програму ($1 за запрошеного платника)
+- Виправити топ-скарги App Store: офлайн режим (MVP), UI quick wins
+- ASO оптимізація під нові keywords: habit, focus, student
 
-### Marketing
-- reduce dependency on paid ads
-- grow organic channels
+**Цільові KPI:**
+- MAU Churn < 5%
+- App Store rating → 4.4
+- Burn rate → $115K/міс
 
-## 12-Month Roadmap
+---
 
-### Q1–Q2
-- release core improvements
-- fix retention
+### Фаза 2 — Репозиціонування (місяці 3-5)
+- Нова ціна $3.99/міс (grandfathering існуючих на 6 міс)
+- Повний habit tracker з gamification (streaks, рівні, досягнення)
+- Pomodoro таймер
+- TikTok/Reddit контент маркетинг
+- Trial → 14 днів
 
-### Q3
-- launch new positioning
-- test new audience
+**Цільові KPI:**
+- D7 retention → 15%+
+- Trial-to-paid CR → 22%+
+- Downloads → 35,000/міс
+- MRR стабілізується
 
-### Q4
-- scale growth channels
+---
 
+### Фаза 3 — Зростання (місяці 6-9)
+- Повний офлайн режим
+- Колаборація до 5 осіб
+- Партнерства з університетами та студентськими спільнотами
+- Вихід на Польщу, Нідерланди
 
-## Expected Impact
+**Цільові KPI:**
+- MAU → 120,000+
+- Paying Users → 15,000+
+- MRR → $65K+
+- LTV/CAC → 2.5×+
 
-- increase retention
-- improve LTV
-- stabilize growth
+---
 
-## Final Thought
+### Фаза 4 — AI + масштаб (місяці 10-12)
+- AI smart daily planning beta (на основі habit даних)
+- Voice task input
+- Розширення на нові англомовні ринки
+- Розгляд bridge-раунду якщо метрики позитивні
 
-The product still has potential
+**Цільові KPI:**
+- MRR → $75K+
+- Paid Churn < 10%
+- LTV/CAC → 3×+
+- D90 retention → 5%+
 
-→ but only if we fix retention and product value
+---
+
+## Очікувані результати через 12 місяців
+
+| Метрика | Зараз | Ціль |
+|---|---|---|
+| MRR | $60,000 | $75,000+ |
+| Paid Churn | 18% | < 10% |
+| LTV/CAC | 1.85× | 3×+ |
+| D90 Retention | 2.3% | 5%+ |
+| Burn rate | $150K | $115K |
