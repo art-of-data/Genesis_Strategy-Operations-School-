@@ -1,5 +1,4 @@
 # 📉 Problem Diagnosis
-
 In this step, I analyzed the product data to understand why TaskFlow is declining.
 
 ## Key Findings
@@ -40,7 +39,6 @@ In this step, I analyzed the product data to understand why TaskFlow is declinin
 → The product is becoming less profitable
 
 ## Main Problem
-
 The core issue is **product + retention problem**
 
 - Users don’t stay
@@ -55,5 +53,4 @@ TaskFlow is losing users because:
 - Weak retention
 - Outdated product
 - Strong competition
-
 If nothing changes, the product will continue declining
