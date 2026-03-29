@@ -1,52 +1,56 @@
-# ⚔️ Competitor Benchmarking
+# Competitor Analysis
 
-## What I did
-I compared TaskFlow with key competitors:
-- Todoist
-- TickTick
-- Any.do
-- Notion
+## Порівняльна таблиця
+| Параметр | TaskFlow | Todoist | TickTick | Any.do | MS To Do |
+|---|---|---|---|---|---|
+| Ціна premium/міс | $5.99 | $5.00 | $2.99 | $7.99 | Безкошт. |
+| AI функції | ✗ | ✓ | частково | ✓ | ✓ Copilot |
+| Офлайн режим | ✗ | ✓ | ✓ | ✓ | ✓ |
+| Habit tracking | ✓ базовий | ✗ | ✓ повний | ✗ | ✗ |
+| Вбудований календар | ✗ | через Google | ✓ | ✓ | обмежений |
+| Pomodoro таймер | ✗ | ✗ | ✓ | ✗ | ✗ |
+| Колаборація | до 3 осіб | до 25 | teams | family+teams | обмежена |
+| App Store рейтинг | 4.2 | 4.7 | 4.8 | 4.6 | 4.4 |
+| Кількість користувачів | ~0.5M | 50M+ | 30M+ | 30M+ | 100M+ |
 
-## Key Differences
+## Аналіз по конкурентах
 
-### 1. Product Features
-Competitors offer:
-- More advanced collaboration
-- Offline mode
-- Better UI/UX
-- More integrations
+### Todoist
+- Найсильніший прямий конкурент
+- AI Assist + Ramble (голосовий ввід задач)
+- 50M+ користувачів, сильна колаборація
+- Слабке місце: немає habit tracking
 
-TaskFlow:
-→ Limited functionality
+### TickTick
+- Найнебезпечніший за ціною ($2.99/міс)
+- All-in-one: задачі + звички + календар + Pomodoro
+- 30M+ користувачів
+- Слабке місце: складніший UX для новачків
 
-### 2. Product Updates
-- Competitors release features регулярно
-- TaskFlow: no major updates for 8 months
+### Any.do
+- Найдорожчий ($7.99/міс)
+- AI планування + WhatsApp інтеграція
+- Family та team плани
+- Слабке місце: менша база користувачів
 
-→ Product feels outdated
+### Microsoft To Do
+- Безкоштовний конкурент
+- Інтеграція з Microsoft 365 та Copilot AI
+- 100M+ користувачів
+- Слабке місце: обмежений функціонал поза екосистемою Microsoft
 
-### 3. Positioning
+## Де TaskFlow програє
+- **За ціною** — TickTick дешевший і функціональніший
+- **За функціями** — Todoist має AI та кращу колаборацію
+- **За простотою** — Any.do простіший у використанні
+- **За рейтингом** — всі конкуренти мають вищий рейтинг
 
-- Notion → all-in-one workspace
-- Todoist → powerful productivity tool
-- TickTick → tasks + habits + calendar
+## Єдина перевага TaskFlow
+Habit tracking — є базова реалізація якої немає у Todoist і Any.do.
+Потребує значного розвитку щоб стати реальним диференціатором.
 
-TaskFlow:
-→ unclear positioning
-
-### 4. Ratings
-
-- TaskFlow: 4.6 → 4.2 (decline)
-- Complaints:
-  - limited collaboration
-  - no offline mode
-  - repetitive UI
-
-## Conclusion
-
-Competitors win because:
-- better product
-- faster development
-- clearer positioning
-
-→ TaskFlow is falling behind
+## Джерела
+- G2: https://www.g2.com/categories/task-management
+- Todoist: https://todoist.com/pricing
+- TickTick: https://ticktick.com/about/pricing
+- Any.do: https://www.any.do/pricing
