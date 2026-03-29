@@ -1,56 +1,56 @@
-# 📉 Problem Diagnosis
-In this step, I analyzed the product data to understand why TaskFlow is declining.
+# Problem Diagnosis
 
-## Key Findings
+## Загальний контекст
 
-### 1. User base is shrinking
-- MAU dropped from 180,000 → 105,000 (-42%)
-- Downloads are also decreasing every month
+TaskFlow — мобільний застосунок для управління задачами (to-do list).
+Запущений 2 роки тому. Перший рік — сильне зростання.
+Останні 12 місяців — стабільне падіння по всіх ключових метриках.
 
-→ This means we are losing users faster than acquiring them
+## Ключові метрики: Jan 2025 → Dec 2025
 
-### 2. Revenue is going down
-- MRR decreased from $86K → $60K (-30%)
+| Метрика | Початок | Кінець | Зміна |
+|---|---|---|---|
+| MAU (активні користувачі) | 180,000 | 105,000 | −41.7% |
+| MRR (щомісячний дохід) | $86,400 | $60,000 | −30.6% |
+| Paying Users (платні) | 18,000 | 12,500 | −30.6% |
+| Downloads (завантаження) | 48,000 | 28,000 | −41.7% |
+| MAU Churn (відтік користувачів) | 2.2% | 6.25% | ↑ 3× |
+| App Store рейтинг | 4.6 | 4.2 | ↓ |
 
-→ This is a direct result of fewer active users
+## Фінансова ситуація
 
-### 3. Retention is getting worse
-- Day 90 retention dropped from 6.5% → 2.3%
-- Users do not stay in the product long-term
+- Щомісячні витрати (burn rate): $150,000
+- Щомісячний дохід (MRR): $60,000
+- Дефіцит: −$90,000/міс
+- Термін роботи на поточних ресурсах (runway): ~14 місяців
+- Реальне вікно для змін: **6–8 місяців**
 
-→ This is a strong signal of product value problem
+## 3 кореневі проблеми
 
-### 4. Monetization slightly improved
-- ARPU increased (0.48 → 0.57)
-- Conversion rate increased (10% → 11.9%)
+### #1 Продуктова проблема — критична
 
-→ But this is not enough to compensate user loss
+- Day 90 retention впав з 6.5% → 2.3% (−64.6% за рік)
+- З 28,000 завантажень грудня → через 90 днів залишиться лише ~644 активних
+- 8 місяців без оновлень продукту
+- Топ-скарги в App Store: немає офлайн режиму, слабка колаборація, застарілий UI
+- Конкуренти (Todoist, TickTick) активно випускали оновлення весь 2025 рік
 
-### 5. Acquisition is getting more expensive
-- CAC increased from $1.8 → $2.6
-- Paid channels dominate (Meta = 62%)
+### #2 Збиткова юніт-економіка — критична
 
-→ We pay more but get less value
+- Витрати на залучення: $73,276/міс при MRR $60,000
+- Довічна цінність клієнта (LTV): впала з $48.00 → $26.67 (−44%)
+- Вартість залучення платного клієнта (реальний CAC): зросла з $6.92 → $14.44
+- Співвідношення LTV/CAC: 1.85× (норма ≥ 3×)
+- Відтік платних (paid churn): 10% → 18%
+- Середній термін підписки: 10 міс → 5.6 міс
 
-### 6. Unit economics is getting worse
-- LTV is decreasing
-- LTV/CAC ratio dropped significantly
+### #3 Розмите позиціонування — стратегічна
 
-→ The product is becoming less profitable
+- TaskFlow коштує $5.99/міс як Todoist, але дає значно менше функцій
+- TickTick пропонує більше (календар, Pomodoro, офлайн) за $2.99/міс
+- Немає чіткого диференціатора — продукт застряг між конкурентами
 
-## Main Problem
-The core issue is **product + retention problem**
+## Висновок
 
-- Users don’t stay
-- Product hasn’t been updated for 8 months
-- Competitors are moving faster
-
-→ Marketing is not the main issue
-
-## Summary
-
-TaskFlow is losing users because:
-- Weak retention
-- Outdated product
-- Strong competition
-If nothing changes, the product will continue declining
+Комбінована проблема — продукт застарів, залучення збиткове, позиціонування розмите.
+Всі три проблеми пов'язані між собою і посилюють одна одну.
