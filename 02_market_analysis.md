@@ -1,63 +1,32 @@
-# 🌍 Market & Niche Analysis
+# Market Analysis
 
-I researched the productivity tools market to understand where TaskFlow stands.
+## Розмір та динаміка ринку
 
-## Market Overview
+| Сегмент | Обсяг 2025 | Темп росту (CAGR) | Прогноз |
+|---|---|---|---|
+| Task Management Software | $5.1B | 13.9% | $9.4B до 2035 |
+| Productivity Apps | $13.15B | 9.94% | $31.8B до 2034 |
+| AI Task Manager (США) | $787M | 9.17% | до 2035 |
 
-The productivity app market is:
-- Large and growing
-- Highly competitive
-- Driven by user experience and innovation
+**Ключовий висновок:** ринок росте на 13.9% на рік, але TaskFlow падає на 30%.
+Проблема не в ринку — в продукті та позиціонуванні.
 
-Key trend:
-→ Users want **all-in-one tools**, not just to-do lists
+## Ключові тренди 2025
 
-## Key Trends
+- **AI інтеграція** — штучний інтелект став обов'язковою фічею преміум-сегменту. 42% нових функцій у конкурентів пов'язані з AI
+- **Офлайн режим** — користувачі очікують повну функціональність без інтернету
+- **All-in-one підхід** — задачі + звички + календар + таймер в одному застосунку
+- **SMB зростання** — малий та середній бізнес активно переходить на task management tools (CAGR 14.1%)
+- **Кросплатформність** — seamless досвід на iOS, Android та Web
 
-- Shift from simple task apps → all-in-one platforms (Notion)
-- Growth of AI productivity tools
-- More focus on collaboration and teamwork
-- Habit tracking + mental health integration
-- Cross-platform (mobile + web + desktop)
+## Географія ринку
 
-## Market Niches
+- North America — 37% глобального ринку
+- США залишається ключовим ринком (52% revenue TaskFlow)
+- Зростаючі ринки: Польща, Нідерланди, Центральна Європа
 
-### 1. Task Management (Todoist, Any.do)
-- Simple and focused
-- Very competitive
-- Hard to differentiate
+## Джерела
 
-### 2. All-in-one productivity (Notion)
-- Fast growing
-- High engagement
-- Complex but powerful
-
-### 3. Habit tracking (Habitica, etc.)
-- Emotional engagement
-- Gamification
-
-### 4. Focus / time management (Forest)
-- Simple but sticky
-
-### 5. Collaboration tools
-- Growing demand
-- Especially for remote work
-
-## 💡 Most Promising Niches
-
-Based on trends:
-
-1. All-in-one productivity tools  
-2. AI-powered assistants  
-3. Collaboration-focused apps  
-
-## Conclusion
-
-TaskFlow is currently in:
-→ **a very crowded niche (task management)**
-
-And it:
-- does not stand out
-- does not innovate
-
-→ This is a strategic risk
+- MarketResearchFuture: https://www.marketresearchfuture.com/reports/task-management-software-market
+- Fortune Business Insights: https://www.fortunebusinessinsights.com/productivity-management-software-market
+- BusinessOfApps: https://www.businessofapps.com
